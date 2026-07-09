@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="430" viewBox="0 0 720 430">
+  <rect x="0" y="0" width="720" height="430" fill="#0a0d0a" />
+  <rect x="4" y="4" width="712" height="422" fill="none" stroke="#2fbf71" stroke-width="2" />
+  <rect x="10" y="10" width="700" height="410" fill="none" stroke="#2fbf71" stroke-width="1" opacity="0.35" />
+<text x="24" y="56" font-family="ui-monospace, SFMono-Regular, 'Courier New', Menlo, Consolas, monospace" font-size="15" fill="#e9fbef" font-weight="bold">OLEKSII RADETSKY BIOS <tspan fill="#4d7a5c">v3.31</tspan></text>
+<text x="696" y="56" font-family="ui-monospace, SFMono-Regular, 'Courier New', Menlo, Consolas, monospace" font-size="15" fill="#4d7a5c" text-anchor="end">(C) 2026</text>
+<line x1="24" y1="70" x2="696" y2="70" stroke="#2fbf71" stroke-width="1" opacity="0.5" />
+<text x="42.0" y="98" font-family="ui-monospace, SFMono-Regular, 'Courier New', Menlo, Consolas, monospace" font-size="15"><tspan fill="#8fd6a8">CPU</tspan><tspan fill="#4d7a5c"> ........................ </tspan><tspan fill="#e9fbef">HUMAN-9000 @ ADHD-TURBO</tspan></text>
+<text x="42.0" y="120" font-family="ui-monospace, SFMono-Regular, 'Courier New', Menlo, Consolas, monospace" font-size="15"><tspan fill="#8fd6a8">MEMORY TEST</tspan><tspan fill="#4d7a5c"> ................ </tspan><tspan fill="#e9fbef">65536 KB OK</tspan></text>
+<text x="42.0" y="164" font-family="ui-monospace, SFMono-Regular, 'Courier New', Menlo, Consolas, monospace" font-size="15"><tspan fill="#8fd6a8">Detecting Primary Master</tspan><tspan fill="#4d7a5c"> ... </tspan><tspan fill="#e9fbef">OLEKSII RADETSKY</tspan></text>
+<text x="546.0" y="164" font-family="ui-monospace, SFMono-Regular, 'Courier New', Menlo, Consolas, monospace" font-size="15" fill="#39ff6a" font-weight="bold">[OK]</text>
+<text x="42.0" y="186" font-family="ui-monospace, SFMono-Regular, 'Courier New', Menlo, Consolas, monospace" font-size="15"><tspan fill="#8fd6a8">Loading Languages</tspan><tspan fill="#4d7a5c"> .......... </tspan><tspan fill="#e9fbef">PYTHON, RUST, JAVASCRIPT</tspan></text>
+<text x="546.0" y="186" font-family="ui-monospace, SFMono-Regular, 'Courier New', Menlo, Consolas, monospace" font-size="15" fill="#39ff6a" font-weight="bold">[OK]</text>
+<text x="42.0" y="208" font-family="ui-monospace, SFMono-Regular, 'Courier New', Menlo, Consolas, monospace" font-size="15"><tspan fill="#8fd6a8">Loading Frameworks</tspan><tspan fill="#4d7a5c"> ......... </tspan><tspan fill="#e9fbef">DJANGO, DRF, REACT</tspan></text>
+<text x="546.0" y="208" font-family="ui-monospace, SFMono-Regular, 'Courier New', Menlo, Consolas, monospace" font-size="15" fill="#39ff6a" font-weight="bold">[OK]</text>
+<text x="42.0" y="230" font-family="ui-monospace, SFMono-Regular, 'Courier New', Menlo, Consolas, monospace" font-size="15"><tspan fill="#8fd6a8">Mounting Human</tspan><tspan fill="#4d7a5c"> ............. </tspan><tspan fill="#e9fbef">UA / EN / ES</tspan></text>
+<text x="546.0" y="230" font-family="ui-monospace, SFMono-Regular, 'Courier New', Menlo, Consolas, monospace" font-size="15" fill="#39ff6a" font-weight="bold">[OK]</text>
+<text x="42.0" y="252" font-family="ui-monospace, SFMono-Regular, 'Courier New', Menlo, Consolas, monospace" font-size="15"><tspan fill="#8fd6a8">Side Project</tspan><tspan fill="#4d7a5c"> ............... </tspan><tspan fill="#e9fbef">OVERCLEAN (macOS cleaner)</tspan></text>
+<text x="546.0" y="252" font-family="ui-monospace, SFMono-Regular, 'Courier New', Menlo, Consolas, monospace" font-size="15" fill="#ffd23f" font-weight="bold">[WARN]</text>
+<text x="42.0" y="274" font-family="ui-monospace, SFMono-Regular, 'Courier New', Menlo, Consolas, monospace" font-size="15"><tspan fill="#8fd6a8">Focus Subsystem</tspan><tspan fill="#4d7a5c"> ............ </tspan><tspan fill="#e9fbef">ADHD</tspan></text>
+<text x="546.0" y="274" font-family="ui-monospace, SFMono-Regular, 'Courier New', Menlo, Consolas, monospace" font-size="15" fill="#ff6b4a" font-weight="bold">[BUSY]</text>
+<text x="42.0" y="318" font-family="ui-monospace, SFMono-Regular, 'Courier New', Menlo, Consolas, monospace" font-size="15"><tspan fill="#8fd6a8">GITHUB</tspan><tspan fill="#4d7a5c"> ..................... </tspan><tspan fill="#e9fbef">github.com/radetsky</tspan></text>
+<text x="42.0" y="340" font-family="ui-monospace, SFMono-Regular, 'Courier New', Menlo, Consolas, monospace" font-size="15"><tspan fill="#8fd6a8">SITE</tspan><tspan fill="#4d7a5c"> ....................... </tspan><tspan fill="#e9fbef">overcleanmacapp.com</tspan></text>
+<text x="42.0" y="384" font-family="ui-monospace, SFMono-Regular, 'Courier New', Menlo, Consolas, monospace" font-size="15" fill="#39ff6a">Press DEL to enter SETUP, or any key to continue<tspan fill="#39ff6a"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite" />_</tspan></text>
+</svg>
